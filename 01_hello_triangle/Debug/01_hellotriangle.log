@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\dennis aguiar\desktop\pg-new\src\01_hello_triangle\main.cpp(176): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+c:\users\dennis aguiar\desktop\pg-new\src\01_hello_triangle\main.cpp(180): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\dennis aguiar\desktop\pg-new\src\01_hello_triangle\main.cpp(181): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  01_hellotriangle.vcxproj -> C:\Users\Dennis Aguiar\Desktop\PG-new\src\Debug\hellotriangle.exe
